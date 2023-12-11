@@ -1,6 +1,14 @@
 # Hello 👋 I'm Tammie Schrader
 
-## I empower educators to find and use tools that will serve their students.  
+### I empower educators to find and use tools that will serve their students.  
+
+## Presentations
+
+## Workshops
+
+## Camps
+
+## Consulting and Collaborations
 
 <!--
 **Tammieschrader/Tammieschrader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
