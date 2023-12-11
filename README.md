@@ -3,6 +3,9 @@
 ### I empower educators to find and use tools that will serve their students.  
 
 ## Presentations
+* AI in Education (December, 2023) - Washington State Senate Education Committee
+* AI in Education (December, 2023) - Washington State Informational Session Professional Educator Standards Board
+* Technology in Education (September, 2023) - Porto, Portugal panel for 5,000 educators
 
 ## Workshops
 
